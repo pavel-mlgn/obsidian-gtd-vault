@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "05944e50789b78ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f7be2d63153caf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Task.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93cc194207a49233",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3208fd40874cbdb",
+        "type": "tabs",
+        "dimension": 16.786570743405278,
+        "children": [
+          {
+            "id": "17663a14c5a80a15",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d5e78ba4214cb73",
+        "type": "tabs",
+        "dimension": 31.17505995203837,
+        "children": [
+          {
+            "id": "0023a7af467eb779",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b13551c2afc281b7",
+        "type": "tabs",
+        "dimension": 52.038369304556355,
+        "children": [
+          {
+            "id": "824aad42f58e145d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a480792491442438",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#project",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 183.01364135742188
+  },
+  "right": {
+    "id": "2d0b4c1e898eb4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "20aca5c02f2af86d",
+        "type": "tabs",
+        "dimension": 23.548922056384743,
+        "children": [
+          {
+            "id": "1ce3c67f2ae1b975",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9140465fb5c45cb8",
+        "type": "tabs",
+        "dimension": 76.45107794361526,
+        "children": [
+          {
+            "id": "033c358012561733",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.50167846679688
+  },
+  "active": "a3f7be2d63153caf",
+  "lastOpenFiles": [
+    "Templates/Ref-Person.md",
+    "Templates/Ref-Instruction.md",
+    "Templates/Ref-Document.md",
+    "Templates/Project.md",
+    "Templates/Meeting.md",
+    "Templates/Inbox.md",
+    "Todo List.md",
+    "Thought.md",
+    "Team Meeting.md",
+    "Task Two - My First Project.md"
+  ]
+}

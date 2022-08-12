@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Inbox",
+      "path": "Inbox.md"
+    },
+    {
+      "type": "file",
+      "title": "Persons",
+      "path": "Persons.md"
+    },
+    {
+      "type": "file",
+      "title": "Todo List",
+      "path": "Todo List.md"
+    }
+  ]
+}

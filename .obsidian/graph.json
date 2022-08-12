@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#task",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 3715683
+      }
+    },
+    {
+      "query": "tag:#reference/person",
+      "color": {
+        "a": 1,
+        "rgb": 9894961
+      }
+    },
+    {
+      "query": "tag:#reference/instruction",
+      "color": {
+        "a": 1,
+        "rgb": 1838078
+      }
+    },
+    {
+      "query": "tag:#reference/document",
+      "color": {
+        "a": 1,
+        "rgb": 16121707
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224523,
+  "close": false
+}
